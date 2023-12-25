@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --field-text: "DM Sans";
+  --field-text-size: 16px;
+  --profile-text-size: 14px;
+  --font-size-21xl: 40px;
+  --font-size-26xl: 45px;
+  --color-white: #fff;
+  --black-text: #1a1a1a;
+  --black: #1a1919;
+  --grey-text: #999;
+  --color-black: #000;
+  --color-red: #f82626;
+  --color-dimgray: #474158;
+  --padding-xs: 12px;
+  --br-31xl: 50px;
+  --br-5xs: 8px;
+}
+
+/*# sourceMappingURL=index.689f5f05.css.map */
